@@ -1,8 +1,3 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/URL" alt="banner" width="100%" />
-</p>
-h
-
 # Hi, I'm Mehedi Enam!
 ![Visitor Count](https://komarev.com/ghpvc/?username=mehedienf&color=blue&style=flat&label=Profile+Views)
 
