@@ -1,5 +1,4 @@
 # Hi, I'm Mehedi Enam!
-![Visitor Count](https://komarev.com/ghpvc/?username=mehedienf&color=blue&style=flat&label=Profile+Views)
 
 🎓 Computer Science & Engineering student  
 💻 Passionate about IoT, Mobile App Development & Embedded Systems  
