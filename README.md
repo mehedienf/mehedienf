@@ -1,53 +1,34 @@
 # Hi, I'm Mehedi Enam!
 
 🎓 Computer Science & Engineering student  
-💻 Passionate about IoT, Mobile App Development & Embedded Systems  
-🌱 Currently learning: Flutter + Firebase, ESP32/ESP8266 with Arduino  
+💻 Passionate about UX/UI design, Apps Development, Radio Control Systems (Drone, RC Plane, etc), IoT, Robotics, etc.
+🌱 Always learning...
 
 ---
 
 ## Tech Stack
 
-- 💡 Languages: C++, C, Dart, JavaScript  
-- 🔧 Frameworks & Platforms: Flutter, Node.js, Arduino IDE  
-- 🌐 Backend & Tools: Firebase (Realtime DB), Express.js, Git & GitHub  
-- 📟 IoT: ESP32, ESP8266, Arduino Uno
+- Languages : C, Java, C++, C#, Dart, JavaScript  
+- Frameworks : Flutter, DotNet
+- Designing : Figma, Adobe Illustrator
+- Platforms : VS Code, Netbeans, IntelliJ IDEA, Arduino IDE, CodeBlocks
+- Backend & Tools: Firebase (Realtime DB), Git & GitHub  
+- IoT: ESP, Arduino
 
 ---
 
 ## Projects
 
-- 🔌 **Home Automation with ESP32 + Firebase + Flutter UI**  
-- 📱 **Dice Roller App with Flutter**  
-- 💻 **Sorting Algorithm Visualizer in C++**  
-- 🛰️ **ESP8266 Web Server for Smart Home Controls**  
-- 🌐 **Personal Portfolio Website (in progress)**
+- **ESP Controller for Smart Home Controls with Flutter**
+- **Home Automation with ESP32 + Firebase + Flutter UI** 
+- **Dice Roller App with Flutter**
+- **DebtNote - A personal ledger app with Flutter** 
+- **Personal Portfolio Website (in progress)**
+
 
 ---
 
-## GitHub Stats
-
-![Mehedi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mehedienf&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mehedienf&layout=compact&theme=tokyonight)
-
----
-
-## GitHub Streak
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=mehedienf&theme=tokyonight&hide_border=true)](https://git.io/streak-stats)
-
----
-
-## GitHub Trophies
-
-![Trophies](https://github-profile-trophy.vercel.app/?username=mehedienf&theme=radical)
-
----
-
-## Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge)](https://www.linkedin.com/in/mehedienam)  
-[![Email](https://img.shields.io/badge/Email-grey?logo=gmail&style=for-the-badge)](mailto:enammehedi06@gmail.com)
 
 ---
 
