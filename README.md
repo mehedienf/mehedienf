@@ -2,7 +2,7 @@
 
 > Computer Science & Engineering student 
 
-> Passionate about UX/UI design, Apps Development, Radio Control Systems (Drone, RC Plane, etc), IoT, Robotics, etc. 
+> .NET, Passionate about UX/UI design, Apps Development, Radio Control Systems (Drone, RC Plane, etc), IoT, Robotics, etc. 
 
 > Always learning...
 
